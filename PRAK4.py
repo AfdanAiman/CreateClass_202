@@ -22,3 +22,4 @@ try:
 
 except ValueError:
     print("Input harus berupa angka")
+    
